@@ -1,5 +1,10 @@
 # stagged_animation
 
+
+https://github.com/Harshpadariya51/Stagged_Animation/assets/135210889/48557fb7-a63f-48aa-8619-a19a5f06531e
+
+
+
 A new Flutter project.
 
 ## Getting Started
